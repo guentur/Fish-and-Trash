@@ -1,0 +1,113 @@
+/****************************************
+ 	Стили для элементов игрового поля
+****************************************/
+#underwater{
+	position: absolute;
+	height: 568px;
+	width: 100%;
+	top: 200px;
+}
+
+/* Рыбачья сеть */
+#seine{
+	position: absolute;
+	height: 568px;
+	width: 100%;
+	background-image: url("../images/net-1024x568.png");
+	transition: all 0;
+}
+
+/* Пузырьки */
+#bubbles{
+	position: absolute;
+	top: 600px;
+	left: -100px;
+	height: 80px;
+	width: 35px;
+	background-image: url("../images/bulbs-35x80.gif");
+}
+
+/* Солнце */
+#sun{
+	position: absolute;
+	top: 600px;
+	left: -100px;
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	background-image: url("../images/sun.gif");
+}
+
+/* Блок жизней */
+#livesBlock{
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
+
+#livesBlock span{
+	background-image: url("../images/heart-46x40.png");	
+	height: 40px;
+	width: 46px; 	
+	float: left;
+}
+
+/* Воздух */
+/* Иконка баллона */
+#oxygen-icon{
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	height: 60px;
+	width: 50px;
+	background-image: url("../images/o2_smal-50x60.png");
+}
+
+/* Граница индикатора */
+#oxygen-background{
+	position: absolute;
+	top: 20px;
+	left: 50px;
+	height: 40px;
+	width: 200px;
+	background: lightblue;
+	border: solid 6px #2CB3FF;
+	border-radius: 50px;
+}
+
+/* Оставшийся воздух */
+#oxygen-balance{
+	position: absolute;
+	top: 26px;
+	left: 56px;
+	height: 40px;
+	width: 200px;
+	border-radius: 46px;
+	transition: background 2s;
+}
+
+.green{
+	background: #01FF4D;
+}
+.yellow{
+	background: yellow;
+}
+.orange{
+	background: orange;
+}
+.red{
+	background: #EB0139;
+}
+.none{
+	background: white;
+}
+
+/* Нефтяное пятнто */
+#blot{
+	position: absolute;
+	top: 600px;
+	left: -100px;
+	height: 80px;
+	width: 80px;
+	background-image: url("../images/blot-80x80.gif");
+}

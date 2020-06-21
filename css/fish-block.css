@@ -1,0 +1,33 @@
+
+/* стили для рыбки */
+#fish-container-block {
+		border: 0;
+		padding: 0;
+        position: absolute;
+		top: 0;
+        left: 0;
+	width: 1024px;
+	height: 768px;
+}
+
+
+#fish-block {	
+		border: 0;
+		padding: 0;
+        position: absolute;
+		top: 50%;
+        left: 50%;
+        margin-left: 0;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+	width: 60px;
+	height: 44px;
+}
+
+.fishleft {
+	background-image: url('../images/fish-60х44-l.gif');
+}
+
+.fishright {
+	background-image: url('../images/fish-60х44-r.gif');
+}

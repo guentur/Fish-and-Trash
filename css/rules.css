@@ -1,0 +1,101 @@
+
+
+/*///////////////////////////////////////////////////////////////////*/
+/*правила игры*/
+
+#pravilaIgru {
+	position: absolute;
+    top: 125px;
+    left: 25px;
+    /*display: block;*/
+    width: 450px;
+    height: 190px;
+}
+
+#zagolovokPravilaIgru {
+	position: absolute;
+    left: 72px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    font-size: 20px;
+    color: #005a98;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+#zagolovokCelIgru {
+	top: 25px;
+    left: 5px;
+    color: #005a98;
+    font-weight: 700;
+    font-size: 18px;
+    position: absolute;
+}
+
+#textCelIgru {
+	margin: 0 auto;
+    position: absolute;
+    top: 27px;
+    left: 102px;
+    color: #005a98;
+    font-size: 17px;
+    line-height: 18px;
+}
+
+#zagolovokOpasaysya {
+    top: 45px;
+    left: 5px;
+    color: #005a98;
+    font-weight: 700;
+    font-size: 18px;
+    position: absolute;
+}
+
+#textOpasaysya {
+    margin: 0 auto;
+    position: absolute;
+    top: 47px;
+    left: 102px;
+    color: #005a98;
+    font-size: 17px;
+    line-height: 18px;
+}
+
+#zagolovokSobiray {
+	top: 77px;
+    left: 5px;
+    color: #005a98;
+    font-weight: 700;
+    font-size: 18px;
+    position: absolute;
+}
+
+#textSobiray {
+	margin: 0 auto;
+    position: absolute;
+    top: 80px;
+    left: 102px;
+    color: #005a98;
+    font-size: 17px;
+    line-height: 18px;
+}
+
+#zagolovokUpravlenie {
+	top: 133px;
+    left: 5px;
+    color: #005a98;
+    font-weight: 700;
+    font-size: 18px;
+    position: absolute;
+}
+
+#textUpravlenie {
+	margin: 0 auto;
+    position: absolute;
+    top: 136px;
+    left: 102px;
+    color: #005a98;
+    font-size: 17px;
+    line-height: 18px;
+}
+/*/////////////////////////////////////////////////////////////////////////*/

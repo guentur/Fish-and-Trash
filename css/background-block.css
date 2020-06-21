@@ -1,0 +1,96 @@
+/* стили для фоновых элементов */
+
+#sky-block {
+	background-image: url('../images/sky-200.jpg');
+		border: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+	width: 1024px;
+	height: 768px;
+}
+
+#sea-block {
+	background-image: url('../images/game-background-1024х768.png');
+		border: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+	width: 1024px;
+	height: 768px;
+}
+
+#sea-block {
+	background-image: url('../images/game-background-1024х768.png');
+		border: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+	width: 1024px;
+	height: 768px;
+}
+
+
+#sea-bottom1 {
+	background-image: url('../images/bottom-280.png');
+        position: absolute;
+        top: 488px; /* высота поля игры - высота водорослей 280px */
+        left: 0;
+	display: block;
+	width: 1024px;
+	height: 280px;
+}
+
+#sea-bottom2 {
+	background-image: url('../images/bottom-280.png');
+        position: absolute;
+        top: 488px; /* высота поля игры - высота водорослей 280px */
+        left: 1024px;
+	display: block;
+	width: 1024px;
+	height: 280px;
+}
+
+#kit-block {
+	background-image: url('../images/kit-400x220.png');
+        position: absolute;
+        top: 350px; /* высота поля игры - высота водорослей 280px */
+        left: 1024px;
+	display: block;
+	width: 400px;
+	height: 220px;
+}
+
+
+#island-block {
+	background-image: url('../images/island-400х220.png');
+        position: absolute;
+        top: 0px; 
+        left: 312px; // вначале стоит по середине
+ 	display: block;
+	width: 400px;
+	height: 220px;
+}
+
+#cloud2-block {
+	background-image: url('../images/cloud2-600x120.png');
+        position: absolute;
+        top: 80px; /* 200-120 - высота неба 200 */
+		left: 424px; /* вначале стоит 1024-600 - размер облака */
+ 	display: block;
+	width: 600px;
+	height: 120px;
+}
+
+#cloud1-block {
+	background-image: url('../images/cloud1-730х200.png');
+        position: absolute;
+        top: 0px; /* 
+        left: 0px; /* вначале стоит слева */
+ 	display: block;
+	width: 730px;
+	height: 200px;
+}
+
+
+

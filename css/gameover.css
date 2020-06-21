@@ -1,0 +1,36 @@
+#tekstProigral {
+	z-index: 999999;
+    margin: 0;
+    color: #ab2001;
+    position: absolute;
+    top: 30px;
+    left: 5px;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+#zagolovokProigral {
+    position: absolute;
+    left: 111px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    font-size: 22px;
+    font-weight: 900;
+    color: #980000;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+
+#win-block {
+    background-image: url('../images/you-win-313-232.png');
+    border: 0;
+    padding: 0;
+    position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    width: 313px;
+    height: 232px;
+    display: block;
+}
