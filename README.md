@@ -1,6 +1,6 @@
 This is game)))
 # Fish-and-Trash
-### Save the fish. Clean the sea
+### Save the fish. Clear the sea
 
 I made this game with two partners. It was very fun).
 
