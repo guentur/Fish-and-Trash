@@ -2,7 +2,7 @@ This is game)))
 # Fish-and-Trash
 ### Save the fish. Clear the sea
 
-I made this game with two partners. It was very fun).
+I made this game with three partners. It was very fun).
 
 # Rules of the game:
 - You play as a fish. You need to **clear the sea by collecting yellow points**, like a sun;
@@ -22,3 +22,19 @@ The game works, but if you want, you can add and improve.
 
 
 ### Правила на русском
+
+# Правила игры:
+- Вы играете рыбой. Вам нужно **очистить море, собирая желтые шары**, похожи на солнце;
+- Рыба задохнется, если выйдет воздух. Чтобы избежать этого **собирайте пузырьки воздуха**;
+- Если рыба поймана в сеть, у нее отнимут одну жизнь;
+- Рыба **давится масляными кляксами**;
+- Выберите способ управления рыбой: **Клавиатура или мышь**
+
+Игра работает, но при желании можно добавлять и улучшать.
+
+## Необходимые улучшения:
+1. Нужно добавить больше музыки
+2. Добавить настройки в игру:
+  - Изменение языка
+  - Настройки громкости
+3. Добавить разные уровни сложности
