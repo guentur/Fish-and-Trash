@@ -1,4 +1,7 @@
 This is game)))
+
+To run the game open the index.html file. Чтобы запустить игру откройте файл index.html.
+
 # Fish-and-Trash
 ### Save the fish. Clear the sea
 
