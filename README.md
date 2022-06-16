@@ -1,7 +1,7 @@
 This is a game)))
 
 ## How to start your gaming process
-There are two ways: with 📟[installing source code](#Installing) and from 🌎[browser page](#Browser page).
+There are two ways: with 📟[installing source code](#Installing) and from 🌎[browser page](#Browser).
 
 ### 📟Installing
 1. Run on your [GitBash console](https://gitforwindows.org/)
