@@ -1,7 +1,7 @@
 This is a game)))
 
 ## How to start your gaming process
-There are two ways: with 📟[installing source code](#Installing) and from 🌎[browser page](#Browser).
+There are two ways: with 📟[installing source code](#Installing) and from 🌎[Browser-page](#Browser).
 
 ### 📟Installing
 1. Run on your [GitBash console](https://gitforwindows.org/)
@@ -10,7 +10,7 @@ git clone https://github.com/guentur/Fish-and-Trash.git
 ```
 2. To jump into the game click to `index.html` file. The [Minimum viable game](https://en.wikipedia.org/wiki/Minimum_viable_product) will start localy on your computer, so you can play without internet connection and make your [contribution](https://github.com/guentur/Fish-and-Trash/issues).
 
-### 🌎Browser page.
+### 🌎Browser page
 1. Just click to [this link](https://guentur.github.io/Fish-and-Trash/)
 
 # Fish-and-Trash
